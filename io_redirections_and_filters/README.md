@@ -1,0 +1,1 @@
+This project focuses on Shell scripting, specifically I/O redirection, special characters, and using filters to manipulate data in the terminal. You'll be expected to write simple bash scripts that interact with files, standard input/output, and utilize basic Unix utilities like head, tail, sort, grep, and others.
